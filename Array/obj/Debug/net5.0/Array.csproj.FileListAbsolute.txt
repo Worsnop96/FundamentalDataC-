@@ -1,0 +1,16 @@
+C:\Users\dylan\source\repos\Array\bin\Debug\net5.0\Array.exe
+C:\Users\dylan\source\repos\Array\bin\Debug\net5.0\Array.deps.json
+C:\Users\dylan\source\repos\Array\bin\Debug\net5.0\Array.runtimeconfig.json
+C:\Users\dylan\source\repos\Array\bin\Debug\net5.0\Array.runtimeconfig.dev.json
+C:\Users\dylan\source\repos\Array\bin\Debug\net5.0\Array.dll
+C:\Users\dylan\source\repos\Array\bin\Debug\net5.0\ref\Array.dll
+C:\Users\dylan\source\repos\Array\bin\Debug\net5.0\Array.pdb
+C:\Users\dylan\source\repos\Array\obj\Debug\net5.0\Array.csproj.AssemblyReference.cache
+C:\Users\dylan\source\repos\Array\obj\Debug\net5.0\Array.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dylan\source\repos\Array\obj\Debug\net5.0\Array.AssemblyInfoInputs.cache
+C:\Users\dylan\source\repos\Array\obj\Debug\net5.0\Array.AssemblyInfo.cs
+C:\Users\dylan\source\repos\Array\obj\Debug\net5.0\Array.csproj.CoreCompileInputs.cache
+C:\Users\dylan\source\repos\Array\obj\Debug\net5.0\Array.dll
+C:\Users\dylan\source\repos\Array\obj\Debug\net5.0\ref\Array.dll
+C:\Users\dylan\source\repos\Array\obj\Debug\net5.0\Array.pdb
+C:\Users\dylan\source\repos\Array\obj\Debug\net5.0\Array.genruntimeconfig.cache
